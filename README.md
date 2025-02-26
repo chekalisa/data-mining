@@ -1,4 +1,4 @@
-# **README - Challenge MOSEF: Bank Churn Prediction**
+# **Challenge MOSEF: Bank Churn Prediction**
 
 ## Description du projet
 
