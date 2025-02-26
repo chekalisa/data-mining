@@ -36,6 +36,10 @@ Meilleur score ROC-AUC : 0.9385 (validation croisée)
 
 Score final sur validation : 0.9324
 
+## Authors
+
+- [Alisa Chekalina](https://github.com/chekalisa)
+- [Carmen Cristea](https://github.com/CarmenParis)
 
 
 
