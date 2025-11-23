@@ -47,7 +47,7 @@ The dataset was divided into two subsets:
 - [Carmen Cristea](https://github.com/CarmenParis)
 
 ---
-## 🇬🇧 French Version
+## French Version
 
 ## Description du projet
 
